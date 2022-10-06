@@ -1,0 +1,18 @@
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    background:maroon;
+    color: white;
+    border:maroon;
+    padding: 2px 10px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 2px;
+    }
+    body{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    h1{
+         color:crimson
+    }
